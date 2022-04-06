@@ -2,7 +2,7 @@
   "name": "screenshot",
   "version": "1.0.0",
   "description": "Create screenshots with puppeteer",
-  "main": "bin/index.js",
+  "main": "screenshot.js",
   "bin": {
     "screenshot": "./screenshot.js"
   },
